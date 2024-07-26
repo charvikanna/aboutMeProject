@@ -37,7 +37,7 @@ struct ContentView: View {
                     
                     VStack{
                         
-                        Image("tv").resizable().aspectRatio(contentMode:.fit).position(x: 100, y: 0)
+                        Image("tv").resizable().aspectRatio(contentMode:.fit).position(x: 99, y: 0)
                         
                         
                         Text("Her favorite show is Outer Banks!")
